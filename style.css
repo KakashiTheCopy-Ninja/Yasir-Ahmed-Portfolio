@@ -40,7 +40,7 @@ h1,h2,h3{font-family:var(--serif);font-weight:500;line-height:1}
 
 /* hero */
 .hero{position:relative;min-height:100svh;display:grid;align-items:end;overflow:hidden;padding:7rem clamp(1rem,4vw,3rem) clamp(4rem,10vh,7rem)}
-.hero-bg{position:absolute;inset:-5%;background-size:cover;background-position:center 28%;animation:ken 24s ease-in-out infinite alternate;filter:saturate(1.05) contrast(1.05)}
+.hero-bg{position:absolute;inset:-5%;background-size:cover;background-position:center 30%;animation:ken 24s ease-in-out infinite alternate;filter:saturate(1.05) contrast(1.05)}
 @keyframes ken{from{transform:scale(1.02)}to{transform:scale(1.14) translate(-1.5%,-1%)}}
 .hero-shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(11,9,7,.55),rgba(11,9,7,.15) 40%,rgba(11,9,7,.92)),radial-gradient(ellipse at center,transparent 40%,rgba(0,0,0,.55))}
 .frame i{position:absolute;width:34px;height:34px;border:1px solid rgba(241,233,220,.6);z-index:3}
