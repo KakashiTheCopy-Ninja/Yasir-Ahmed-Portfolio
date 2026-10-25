@@ -1,10 +1,14 @@
 // Add new work here — drop files in img/ or vid/ and add a line.
 const PHOTOS=[
+ {src:'img/wedding1.jpg',title:'The Blessing',tag:'Wedding'},
+ {src:'img/wedding3.jpg',title:'Quiet Between Us',tag:'Wedding'},
+ {src:'img/wedding2.jpg',title:'Hands & Henna',tag:'Wedding'},
  {src:'img/photo4.jpg',title:'Through the Arch',tag:'Heritage'},
  {src:'img/photo1.jpg',title:'Tower of Tiles',tag:'Heritage'},
  {src:'img/photo5.jpg',title:'Tile & Calligraphy',tag:'Heritage'},
  {src:'img/photo2.jpg',title:'Passage of Light',tag:'Heritage'},
  {src:'img/photo3.jpg',title:'The Doorway',tag:'Heritage'},
+ {src:'img/photo6.jpg',title:'Still Water',tag:'Landscape'},
 ];
 const REELS=[
  {src:'vid/reel2.mp4',poster:'img/poster2.jpg',title:'Nikah Vibes',tag:'Wedding'},
